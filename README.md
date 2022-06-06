@@ -1,6 +1,6 @@
 # weevil_genome_assembly
 
-### The genome of the forest insect pest Pissodes strobi reveals genome expansion and evidence of a Wolbachia endosymbiont           
+### The genome of the forest insect pest *Pissodes strobi* reveals genome expansion and evidence of a Wolbachia endosymbiont           
 
 ***Kristina K Gagalova**, Justin G A Whitehill, Luka Culibrk, Diana Lin, Véronique Lévesque-Tremblay, Christopher I Keeling, Lauren Coombe, Macaire M S Yuen, Inanç Birol, Jörg Bohlmann, Steven J M Jones*
 
