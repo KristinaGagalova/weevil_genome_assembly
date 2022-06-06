@@ -1,5 +1,7 @@
 # weevil_genome_assembly
 
+Read more about the project [here](https://www.bcgsc.ca/news/sequencing-spruce-weevil-genome).
+
 ### The genome of the forest insect pest *Pissodes strobi* reveals genome expansion and evidence of a Wolbachia endosymbiont           
 
 ***Kristina K Gagalova**, Justin G A Whitehill, Luka Culibrk, Diana Lin, Véronique Lévesque-Tremblay, Christopher I Keeling, Lauren Coombe, Macaire M S Yuen, Inanç Birol, Jörg Bohlmann, Steven J M Jones*
